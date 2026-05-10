@@ -37,7 +37,7 @@ def sendBtnf():
     send(text)
 
 def githubBtnf():
-    webbrowser.open_new_tab("https://github.com/Skyrix-7/")
+    webbrowser.open_new_tab("https://github.com/Skyrix-7/PySocketChat/")
 
 
 def send(msg):
