@@ -2,6 +2,8 @@
 
 A simple TCP client-server messaging app built with Python sockets and Tkinter.
 
+![image alt](https://github.com/Skyrix-7/PySocketChat/blob/c4663e27c816da29457a6daf8008cc278c52bb98/preview.png)
+
 ## Features
 
 - Start a server on a custom port and accept multiple clients via threading
