@@ -29,7 +29,7 @@ def conn(incorr="Enter server infos"):
             json.dump(data, file, indent=4)
 
     def helpBtn():
-        url = "https://www.github.com/Skyrix-7/"
+        url = "https://github.com/Skyrix-7/PySocketChat/tree/main#files"
         webbrowser.open(url)
 
     window = tk.Toplevel()
