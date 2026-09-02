@@ -1,4 +1,4 @@
-# PyRecap
+# PySocketchat
 
 A simple TCP client-server messaging app built with Python sockets and Tkinter.
 
